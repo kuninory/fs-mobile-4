@@ -1,0 +1,1 @@
+Executei os passos do tutorial "Creating an Android Project"
